@@ -34,6 +34,7 @@
 ||motivación:| Poder llegar a mas clientes y potenciar el uso de las redes sociales
 ||necesidades:| creacion de material grafico y digital, adaptable a distintos formatos  |
 
+<br></br>
 
 * ¿Qué existe que es similar a la propuesta?
   |Antecedentes | Aspectos positivos |Aspectos negativos|
@@ -44,4 +45,8 @@
   |https://chainzoku.io|la transición dentro de la pagina es armonica y esta bien unificada| la pagina es muy larga (verticalmente) y puede desorientar a la hora de buscar información, podria aprovecharse más con secciones horizontales|
   |https://tamagui.dev/?ref=landings.dev|utiliza una paleta de colores dinamica que resulta llamativa y envolvente|esta un poco saturada al no estar seccionada la pagina principal|
   |https://tilda.cc|utiliza elementos ilustrados que se complementan con un esilo simple y atractivo|la pagina principal tiene mucho contenido ordenado verticalmente|
-  
+
+<br></br>
+**¿Qué existe que puede inspirar la propuesta?**
+
+<img src="https://github.com/Karlabo/karlabonilla/blob/main/img1.jpg" width="50%">
