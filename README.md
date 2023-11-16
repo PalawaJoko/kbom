@@ -1,9 +1,11 @@
 # karlabonilla
 **¿Para qué es esta propuesta?**
-* Dar a conocer mis trabajos de diseño realizados durante la carrera, practica profesional y de forma autonoma. Enfocados en el diseño grafico e ilustración
+Dar a conocer mis trabajos de diseño realizados durante la carrera, practica profesional y de forma autonoma. Enfocados en el diseño grafico e ilustración
+
 <br> </br>
+
 **¿Para quiénes es esta propuesta?**
-* Esta propuesta esta dirigida a los siguientes usuarios
+Esta propuesta esta dirigida a los siguientes usuarios
    |USUARIO | DESCRIPCIÓN |
   | --------------- | --------------- |
   |Usuario extremo| Empresas y organizaciones en busqueda de nuevas ideas y talentos para sumar a su aquipo de trabajo|
