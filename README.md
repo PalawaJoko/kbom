@@ -4,11 +4,11 @@
 
 **¿Para quiénes es esta propuesta?**
 * Esta propuesta esta dirigida a los siguientes usuarios
-  |USUARIO | DESCRIPCIÓN |
-| ---------- | --------- |
-|Usuario extremo| Empresas y organizaciones en busqueda de nuevas ideas y talentos para sumar a su aquipo de trabajo|
-|Usuario extremo | Estudiantes de diseño o de carreras a fines que busquen inspiración y referencias de diseño
-|Usuario probable| Diseñadores en busqueda de nuevos talentos o que necesiten apoyo en la creación de lineamientos graficos y visuales|
+   |Antecedentes | Aspectos positivos |
+  | --------------- | --------------- |
+  |Usuario extremo| Empresas y organizaciones en busqueda de nuevas ideas y talentos para sumar a su aquipo de trabajo|
+  |Usuario extremo | Estudiantes de diseño o de carreras a fines que busquen inspiración y referencias de diseño
+  |Usuario probable| Diseñadores en busqueda de nuevos talentos o que necesiten apoyo en la creación de lineamientos graficos y visuales|
 
 
 * ¿Qué existe que es similar a la propuesta?
